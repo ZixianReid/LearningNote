@@ -8,7 +8,8 @@
 	- stage2 RPN
 		- First: 生成基本锚点，根据不同的长宽比和不同的scale定义9点不同的锚点框
 		- ![image.png](../assets/image_1652607323016_0.png)
-		- Secondly, 根据第一层vgg16得到的feature map(1, 512, 37, 50) ，在37*50的每个点中定义第一步中9点不同的锚点框。
+		- Secondly, 根据第一层vgg16得到的feature map(1, 512, 37, 50) ，在37*50的每个点中定义第一步中9点不同的锚点框。步长为VGG中缩小的倍数
 			- ![image.png](../assets/image_1652607775610_0.png){:height 257, :width 528}
 		- Thirdly, 将feature_map(1, 512, 37, 50) cov成 （1，anchorx2， 37， 50） 和（1，anchorx4，37，50)，分别用于锚点的positve和negative判断和进行bounding box regression。
 			- ![image.png](../assets/image_1652607795815_0.png)
+		-
