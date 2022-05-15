@@ -1,0 +1,11 @@
+- ![image.png](../assets/image_1652154479637_0.png){:height 252, :width 628}
+-
+- ![1b38815914e85749c4a176b8edc9980.jpg](../assets/1b38815914e85749c4a176b8edc9980_1652283337297_0.jpg)
+-
+- pointnet 结果
+	- ![image.png](../assets/image_1652097354936_0.png)
+- pointnet++结果
+- ![image.png](../assets/image_1652287660785_0.png)
+-
+- pointnet++速度非常的慢因为cluster需要大量计算资源且并行度较低。经实验，提升深度学习并行度不能显著提升算法效率，bottleneck在cluster位置。
+-

@@ -1,0 +1,23 @@
+- detection -> monitoring
+- target-> object
+- cameras radars dan shu tong yi
+- mmWave ->mmW
+- raw ->
+- system -> algorithm
+- perceived -> perception
+- 4d -> 4D
+- 4d mmWave - > 4D mmW radar
+- surface -> water surface
+- high -> strong
+- 引用需要空格
+- bot -> bot
+- bottle trash data => bottle
+- 开始
+- 引用前有空格
+-
+-
+- 更详细的implement
+- 语法
+- project plan
+- 结尾写contribution
+-

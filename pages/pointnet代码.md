@@ -1,0 +1,39 @@
+- Python 3.8, CUDA 11.3, cuDNN 8, NVCC, Pytorch 1.11.0, torchvision 0.12.0, torchaudio 0.11.0
+- ![image.png](../assets/image_1651830195313_0.png)
+- 网络架构
+	- transform network
+	- 网络结构
+		- ![image.png](../assets/image_1651754415563_0.png)
+	- 代码实现
+		- 前端的MLP， 从3维度扩充至1024维度（B, 3, N）to (B, 1024, N)
+			- ![image.png](../assets/image_1651754730747_0.png)
+		- 在点的维度进行maxpooling操作 （B, 1024, N）to (B, 1024)
+			- ![image.png](../assets/image_1651754938422_0.png)
+		- feature维度缩减， 由1024 至9
+			- ![image.png](../assets/image_1651755021539_0.png)
+		- 将feature转换为tranfrom maxtrix形式
+			- ![image.png](../assets/image_1651755227819_0.png){:height 98, :width 538}
+		- 将3*3的矩阵与源数据相乘得到统一角度的图形 (B, C, N) multiple (C, C)
+			- ![image.png](../assets/image_1651837796019_0.png)
+	- 扩充维度至64
+		- ![image.png](../assets/image_1651838161325_0.png)
+	- 64维度transform network
+		- 与第一步的transform network类似（B, N=64, C）构建64*64的transform。 (B, 64, N) multiple (64, 64)
+	- 扩充维度1024并执行maxpool在点的维度
+		- ![image.png](../assets/image_1651839267042_0.png)
+		- ![image.png](../assets/image_1651839274772_0.png)
+	- 全连接进行classification
+		- ![image.png](../assets/image_1651852022153_0.png){:height 192, :width 441}
+		- ![image.png](../assets/image_1651852036458_0.png){:height 72, :width 279}
+- loss：negative log likelihood loss(todo)
+- ![image.png](../assets/image_1651854739524_0.png)
+- 构建数据集（基于modelnet40）hdf5文件
+	- ![image.png](../assets/image_1652095029138_0.png){:height 348, :width 746}
+- 训练
+	- ![image.png](../assets/image_1652095403110_0.png){:height 94, :width 596}
+	- ![image.png](../assets/image_1652095144732_0.png)
+- 结果
+	- expected result
+	- ![image.png](../assets/image_1652095935268_0.png)
+	- our result
+	- ![image.png](../assets/image_1652097354936_0.png)
