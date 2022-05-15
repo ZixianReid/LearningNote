@@ -14,4 +14,4 @@
 			- ![image.png](../assets/image_1652607795815_0.png)
 			- rpn_locs: （B, hh X hw X anchor_number, 4）
 			- rpn__fg_scores (B, HH, WW, n_anchor, 2) ==>softmax==>(B, HH, WW, n_anchor, 1)
-			- rpn_scoes (B, anchor_n x 2, HH, WW)
+			- rpn_scoes (B, anchor_n x 2, HH, WW)S
