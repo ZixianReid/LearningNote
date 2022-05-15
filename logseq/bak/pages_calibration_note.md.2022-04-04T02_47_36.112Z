@@ -1,0 +1,19 @@
+title:: calibration_note
+
+-
+- spatial calibration
+	- target-based
+		- 整理了目前主流的三种方法：[[A comparative study on Camera-Rader Calibration Method]]
+		- [[DLT]]
+		- [[integrating millimeter wave radar with a monocular vision]]
+		- [[A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar]]
+		- [[Extrinsic 6DoF calibration of a radar–LiDAR–camera system enhanced Extrinsic 6DoF calibration of a radar–LiDAR–camera system enhanced]]
+		- [[Radar and vision sensors calibration for outdoor 3D reconstruction]]
+	- target-less
+		- [[A Continuous-Time Approach for 3D Radar-to-Camera Extrinsic Calibration]]
+		- [[Targetless Rotational Auto-Calibration of Radar and Camera]]
+		- [[Online multi-sensor calibration based on moving]]
+		-
+		-
+-
+-

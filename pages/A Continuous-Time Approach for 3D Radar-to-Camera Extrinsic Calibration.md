@@ -1,0 +1,20 @@
+- ![A_Continuous-Time_Approach_for_3D_Radar-to-Camera_Extrinsic_Calibration.pdf](../assets/A_Continuous-Time_Approach_for_3D_Radar-to-Camera_Extrinsic_Calibration_1647692482563_0.pdf)
+- based on Trajectory of radar and camera to build error equation for optimization H
+- using cumulative B-spline representation to parameterize trajectories
+- magmatically theory
+	- for camera pose
+		- the error equation for any time t
+			- ![image.png](../assets/image_1647745031157_0.png)
+			- ![image.png](../assets/image_1647745144032_0.png)
+				- $T_{cw(t)}$ is the homogeneous matrix  for radar to word(can be expressed by velocity)
+				- $T_{wr}$ can be expressed
+				- $T_{cr}$ is the target homogeneous matrix
+	- for radar speed
+		- the error equation for any time t
+			- ![image.png](../assets/image_1647745616804_0.png)
+			- $R_{wr(t)}$ is the rotation matrix and $r_w^{rw}$ is the translation matrix. These two can construct the $T_{wr}$
+			- $v_r^{rw}$ is detectable speed for radar
+	- the cost function is defined as:
+		- ![image.png](../assets/image_1647746030551_0.png)
+	-
+-

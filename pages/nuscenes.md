@@ -1,0 +1,14 @@
+- 官网 https://www.nuscenes.org/nuscenes   （提供工具包，练习和数据）
+-
+- ![image.png](../assets/image_1651058001495_0.png)
+	- 默认将数据集分为测试集，训练集，验证集。
+- 数据结构
+	- 主数据集部分
+		- 由每一个scene构成，每一个scene包含多个frame，frame里有各个传感器的data
+		- ![image.png](../assets/image_1651059413874_0.png)
+	- 标定部分，包括标定和位姿信息。each sample
+		- ![image.png](../assets/image_1651060003381_0.png)
+	- annotations
+		- boundbox包括
+		- ![image.png](../assets/image_1651060530034_0.png)
+		- ![image.png](../assets/image_1651060510401_0.png){:height 96, :width 551}

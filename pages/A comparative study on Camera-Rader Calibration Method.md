@@ -1,0 +1,5 @@
+- ![A_Comparative_Study_on_Camera-Radar_Calibration_Methods (1)(1).pdf](../assets/A_Comparative_Study_on_Camera-Radar_Calibration_Methods_(1)(1)_1645607450319_0.pdf)
+-
+- pseudo inverse
+- direct linear transformation
+- extrinsic calibration

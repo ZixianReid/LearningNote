@@ -1,0 +1,17 @@
+- ![A_Joint_Extrinsic_Calibration_Tool_for_Radar_Camera_and_Lidar.pdf](../assets/A_Joint_Extrinsic_Calibration_Tool_for_Radar_Camera_and_Lidar_1646550095703_0.pdf)
+- ![An_Extrinsic_Calibration_Tool_for_Radar_Camera_and_Lidar.pdf](../assets/An_Extrinsic_Calibration_Tool_for_Radar_Camera_and_Lidar_1646570326240_0.pdf)
+- Target object
+	- trihedral corner reflector: for radar detection
+	- Styrofoam: for camera detection and limit the effect on detectability of the CR
+- Calibration mathematical
+	- using 4 hole to get optimize image points
+	- for each target location, calculate the squared Euclidean distance
+	- collect all k locations distance to minimize it using lease squares.
+- Innovation
+	- combine the trihedral corner reflector and Styrofoam for a more accurate points detection for radar and camera
+- Tip
+	- mathematical is similar with DLT(collect points information)
+	- target is innovation
+	- toolbox is provided
+	-
+	-

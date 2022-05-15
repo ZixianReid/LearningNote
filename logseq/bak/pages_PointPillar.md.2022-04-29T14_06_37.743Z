@@ -1,0 +1,7 @@
+- ![image.png](../assets/image_1650955274046_0.png){:height 231, :width 776}
+- 主要思想: 改进voxelNet(voxelNet里将区域化成3D块），pointpillar将不同高度的一定XY范围内的点画为同一pillar，可以直接构建2D的离散tensor，避免了3D离散卷积的消耗
+-
+- ![42812ce1e8d6c079a8e7588b4d2b243.jpg](../assets/42812ce1e8d6c079a8e7588b4d2b243_1650960284992_0.jpg)
+-
+-
+- Reference： Lang, Alex H., et al. "Pointpillars: Fast encoders for object detection from point clouds." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.

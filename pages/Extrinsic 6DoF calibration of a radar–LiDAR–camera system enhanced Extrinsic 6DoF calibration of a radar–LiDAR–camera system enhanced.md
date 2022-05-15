@@ -1,0 +1,14 @@
+- ![1-s2.0-S0921889018301994-main.pdf](../assets/1-s2.0-S0921889018301994-main_1646561877735_0.pdf)
+- target object
+	- styrofoam triangle covered by a checkerboard-like pattern behind is a triangular corner retroreflector
+	- for camera-radar calibration, using checkerboard to ensure intrinsic matrix of camera and get an accuracy pose of triangle based on extrinsics matrix.
+- calibration mathmatical
+	- two step optimization
+	- First one: similar with DLT, get all pair points and minimize the error. It use LM for that
+	- Second one: Optimize RCS. based on old radar, which means no elevation location information
+	  But, this paper utilize the property that the RCS has proportion with elevation angel  to get the calibration enhance.
+- Innvoation:
+	- target object
+	- RCS opt
+- Tips：
+	- our 4g mmw radar holds elevation information, this optimize approach may not suitable for us.

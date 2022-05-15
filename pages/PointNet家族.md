@@ -1,0 +1,4 @@
+- [[PointNet]]
+- [[PointNet++]]
+- [[VoxelNet]]
+- [[PointPillar]]

@@ -1,0 +1,12 @@
+- ![image.png](../assets/image_1648646625570_0.png){:height 411, :width 776}
+- 中心点分类：正负样本的生成
+	- ![image.png](../assets/image_1648647075406_0.png)
+		- 缺陷：中心点不能完全表达物体的特征
+		             中心点重叠
+- FCOS
+	- ![image.png](../assets/image_1648647945842_0.png)
+		- 不同物体大小映射不同分辨率，小图映射大分辨率
+		- 可以解决中心点重叠问题
+	- ![image.png](../assets/image_1648648347577_0.png){:height 347, :width 746}
+- 其他keypoint系列
+	- ![image.png](../assets/image_1648648542225_0.png)

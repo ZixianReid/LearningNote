@@ -1,0 +1,10 @@
+- 基于多普勒效应
+- ![image.png](../assets/image_1645764164031_0.png)
+-
+- ![image.png](../assets/image_1645775062522_0.png)
+- ![image.png](../assets/image_1645775434636_0.png){:height 748, :width 755}
+- 毫米波雷达成像问题
+	- 根据threshold成像，根据物品反射峰值取点
+- 毫米波雷达和激光雷达相比的优势
+	- 抗干扰能力强，全天候工作能力强
+-
