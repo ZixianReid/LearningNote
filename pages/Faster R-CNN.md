@@ -13,4 +13,4 @@
 		- Thirdly, 将feature_map(1, 512, 37, 50) cov成 （1，anchorx2， 37， 50） 和（1，anchorx4，37，50)，分别用于锚点的positve和negative判断和进行bounding box regression。
 			- ![image.png](../assets/image_1652607795815_0.png)
 			- rpn_locs: （B, hh X hw X anchor_number, 4）
-			- rpn_score (B, HH, WW, n_anchor, )
+			- rpn_score (B, HH, WW, n_anchor, 2) ==>softmax==>(B, HH, WW, n_anchor, 1)
