@@ -31,4 +31,4 @@
 			- 然后进行bound box regression（对boundbox进行更精确的rect）和分类（用于计算得分）
 			- ![image.png](../assets/image_1652772310117_0.png)
 - Loss
-	-
+	- ROI head
