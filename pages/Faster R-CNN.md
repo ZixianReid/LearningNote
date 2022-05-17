@@ -1,5 +1,7 @@
 - https://zhuanlan.zhihu.com/p/31426458
 - Network
+	- ![aadbf6dd8b14d14f332efad28f46279.jpg](../assets/aadbf6dd8b14d14f332efad28f46279_1652780421874_0.jpg){:height 474, :width 746}
+	- ![769580a2373a30147846357909d2656.jpg](../assets/769580a2373a30147846357909d2656_1652780435152_0.jpg)
 	- stage 1: image to feature map
 		- ![image.png](../assets/image_1652579971246_0.png){:height 326, :width 628}
 		- (1,  3, 800, 600) to (1, 512, 37, 50)
@@ -28,4 +30,4 @@
 			- 对于n个ROI，首先进入ROIpooling层，生成n x 7 x 7 feature map
 			- 然后进行bound box regression（对boundbox进行更精确的rect）和分类（用于计算得分）
 			- ![image.png](../assets/image_1652772310117_0.png)
--
+	-
