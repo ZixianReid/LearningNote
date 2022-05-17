@@ -23,5 +23,6 @@
 				- remove too small region
 					- ![image.png](../assets/image_1652767482650_0.png)
 				- select based on nms(score-->rpn__fg_scores  and ROI-->anchor and rpn_losc  )
-			- 返回满足条件的n个ROI（much less than rpn_losc   ）
-		-
+			- 返回满足条件的n个ROI（much less than rpn_losc ）
+		- stage3 ROI head
+			-
