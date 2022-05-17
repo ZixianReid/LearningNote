@@ -25,4 +25,5 @@
 				- select based on nms(score-->rpn__fg_scores  and ROI-->anchor and rpn_losc  )
 			- 返回满足条件的n个ROI（much less than rpn_losc ）
 		- stage3 ROI head
+			- 对于n个ROI，
 			-
