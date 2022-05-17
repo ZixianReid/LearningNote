@@ -17,3 +17,5 @@
 			- rpn_scoes (B, anchor_n x 2, HH, WW)
 			- anchor (BxHHxWWxn_anchor, 4)
 		- 第四步，proposal_layer 生成ROI， 输入（image_size, anchor, rpn__fg_scores , rpn_locs）
+			- encoding rpn_losc 基于锚点
+				-
