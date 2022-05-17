@@ -25,6 +25,6 @@
 				- select based on nms(score-->rpn__fg_scores  and ROI-->anchor and rpn_losc  )
 			- 返回满足条件的n个ROI（much less than rpn_losc ）
 		- stage3 ROI head
-			- 对于n个ROI，首先进入ROIpooling层，生成n
-			- 进行bound box regression和
+			- 对于n个ROI，首先进入ROIpooling层，生成n x 7 x 7 feature map
+			- 然后进行bound box regression（进行更精确的）和分类（用于计算得分）
 			-
