@@ -15,5 +15,5 @@
 			- rpn_locs: （B, hh X hw X anchor_number, 4）
 			- rpn__fg_scores (B, HH, WW, n_anchor, 2) ==>softmax==>(B, HH, WW, n_anchor, 1) to (BxHHxWWxn_anchor, 1)
 			- rpn_scoes (B, anchor_n x 2, HH, WW)
-			- anchor (B)
+			- anchor (BxHHxWWxn_anchor, 4)
 		- 第四步，proposal_layer 生成ROI， 输入（image_size, anchor, rpn__fg_scores , rpn_locs）
