@@ -19,6 +19,7 @@
 		- 第四步，proposal_layer 生成ROI， 输入（image_size, anchor, rpn__fg_scores , rpn_locs）
 			- encoding  rpn_losc 基于锚点  生成ROI
 				- ![image.png](../assets/image_1652766308955_0.png)
-			- 筛选ROI：remove too small region
-				- ![image.png](../assets/image_1652767482650_0.png)
+			- 筛选ROI：
+				- remove too small region
+					- ![image.png](../assets/image_1652767482650_0.png)
 				-
