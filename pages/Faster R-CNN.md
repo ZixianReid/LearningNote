@@ -26,5 +26,6 @@
 			- 返回满足条件的n个ROI（much less than rpn_losc ）
 		- stage3 ROI head
 			- 对于n个ROI，首先进入ROIpooling层，生成n x 7 x 7 feature map
-			- 然后进行bound box regression（进行更精确的）和分类（用于计算得分）
-			-
+			- 然后进行bound box regression（对boundbox进行更精确的rect）和分类（用于计算得分）
+			- ![image.png](../assets/image_1652772310117_0.png)
+-
