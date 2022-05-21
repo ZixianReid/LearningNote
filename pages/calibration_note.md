@@ -25,3 +25,6 @@ title:: calibration_note
 		- hardware
 			- [[VersaVIS—An Open Versatile Multi-Camera Visual-Inertial Sensor Suite]]
 - [[方案]]
+- 融合论文中设计的标定
+	- Radar and Camera Early Fusion for Vehicle Detection in Advanced Driver Assistance Systems --DLT
+-
