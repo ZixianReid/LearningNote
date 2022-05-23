@@ -17,4 +17,4 @@
 		- 使用CSPdarknet53提取特征
 	- 融合特征：采用全局注意力来融合特征
 		- 输入： ![image.png](../assets/image_1653278317421_0.png){:height 48, :width 247} and ![image.png](../assets/image_1653278333318_0.png)
-	-
+	- neck + head： 文中只介绍采用
