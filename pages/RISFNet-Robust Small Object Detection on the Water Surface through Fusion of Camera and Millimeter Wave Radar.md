@@ -14,4 +14,4 @@
 			  background-color:: #793e3e
 		- 3 使用VGG-13 backbone提取特征，然后使用Self-Attention Block增加真实的目标点减少噪声
 	- 图像：
-		-
+		- 使用CSPdarknet53提取特征
