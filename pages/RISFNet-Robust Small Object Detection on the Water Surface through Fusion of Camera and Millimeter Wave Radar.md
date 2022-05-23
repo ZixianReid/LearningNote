@@ -9,6 +9,7 @@
 				  r 为位置的平方和，v为速度，p为RCS
 				-
 		- 2：为解决单frame雷达点数过少问题，采用前面部分帧的雷达数据合成为一帧。
+collapsed:: true
 			- ![image.png](../assets/image_1653277599281_0.png)
-			- background-color:: #978626
--
+			- background-color:: #793e3e
+	-
