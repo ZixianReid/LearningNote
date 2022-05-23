@@ -12,4 +12,6 @@
 			- ![image.png](../assets/image_1653277599281_0.png)
 			- 思考：是否采用该frame的前后几frame，而不是后frame效果会更好
 			  background-color:: #793e3e
+		- 3 使用VGG-13 backbone提取特征，然后使用Self-Attention Block增加真实的目标点减少噪声
+	- 图像：
 		-
