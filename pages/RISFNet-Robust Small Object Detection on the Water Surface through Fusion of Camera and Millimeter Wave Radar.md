@@ -15,3 +15,5 @@
 		- 3 使用VGG-13 backbone提取特征，然后使用Self-Attention Block增加真实的目标点减少噪声
 	- 图像：
 		- 使用CSPdarknet53提取特征
+	- 融合特征：采用全局注意力来融合特征
+		-
