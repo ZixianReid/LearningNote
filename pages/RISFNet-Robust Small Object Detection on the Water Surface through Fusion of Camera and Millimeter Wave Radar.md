@@ -3,5 +3,5 @@
 - 数据源：3D radar points cloud 和 RGB images
 - 数据处理部分：
 	- 雷达：
-		- 采用pseudo image方式，文章称为 radar point
+		- 采用pseudo image方式，文章称为 radar point density map
 -
