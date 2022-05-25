@@ -10,4 +10,6 @@ title:: RRPN: RADAR REGION PROPOSAL NETWORK FOR OBJECT DETECTION IN AUTONOMOUS V
 -
 - 核心部分：基于雷达点的锚框生成
 	- 为应对雷达点不是会映射到物体的中心，且雷达不会反映出物体的物体大小的这一特点。
+	- ![image.png](../assets/image_1653456081010_0.png)
+	- 基于faster-RCNN的思想，雷达
 -
