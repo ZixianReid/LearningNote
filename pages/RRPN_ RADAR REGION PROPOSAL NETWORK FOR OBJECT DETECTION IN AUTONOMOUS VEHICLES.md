@@ -9,5 +9,5 @@ title:: RRPN: RADAR REGION PROPOSAL NETWORK FOR OBJECT DETECTION IN AUTONOMOUS V
 - 数据标定：使用DLT将雷达3D坐标投射到像素坐标系上
 -
 - 核心部分：基于雷达点的锚框生成
-	- 为应对雷达点不是会映射到物体的中心，
+	- 为应对雷达点不是会映射到物体的中心，且雷达不会反映出物体的物体大小的这一特点。
 -
