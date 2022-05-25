@@ -1,5 +1,5 @@
 - ![Cheng-Robust Small Object Detection on the Water Surface thr.pdf](../assets/Cheng-Robust_Small_Object_Detection_on_the_Water_Surface_thr_1653275840195_0.pdf)
-- ![image.png](../assets/image_1653275995198_0.png)
+- ![image.png](../assets/image_1653275995198_0.png){:height 290, :width 628}
 - 数据源：3D radar points cloud 和 RGB images
 - 数据处理部分：
 	- 雷达：
