@@ -13,6 +13,6 @@ title:: RRPN: RADAR REGION PROPOSAL NETWORK FOR OBJECT DETECTION IN AUTONOMOUS V
 	- ![image.png](../assets/image_1653456081010_0.png)
 	- 基于faster-RCNN的思想，生成多size的锚框，并且锚框的中心不仅仅根据雷达中心点来选取。
 -
-- 结果：仅与
+- 结果：仅与Selective Search进行比较对比AP率等
 -
-- 改进方向：主要针对RPN网络较慢的特点，利用雷达信息给网络加速
+- 改进方向：主要针对RPN网络较慢的特点，利用雷达信息给网络加速。
