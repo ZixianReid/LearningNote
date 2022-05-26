@@ -27,6 +27,10 @@
   :block/created-at 1652475158405,
   :block/updated-at 1652475158405}
  {:block/name
+  "../assets/cheng-robust_small_object_detection_on_the_water_surface_thr_1653275840195_0.pdf",
+  :block/created-at 1653483073086,
+  :block/updated-at 1653483073086}
+ {:block/name
   "../assets/distributed_multi_sensor_data_fusion_for_autonomous_3d_mapping_1648881866896_0.pdf",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
@@ -94,7 +98,7 @@
   :block/updated-at 1652475158411}
  {:block/name "calibration_note",
   :block/created-at 1645454586603,
-  :block/updated-at 1653137091378}
+  :block/updated-at 1653481178374}
  {:block/name "camera内参标定",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
@@ -105,14 +109,14 @@
   :block/created-at 1648646626297,
   :block/updated-at 1648648542934}
  {:block/name "change",
-  :block/created-at 1653223266428,
-  :block/updated-at 1653223266428}
+  :block/created-at 1653483073088,
+  :block/updated-at 1653483073088}
  {:block/name "contents",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
  {:block/name "dataset",
-  :block/created-at 1653223266427,
-  :block/updated-at 1653223266427}
+  :block/created-at 1653483073086,
+  :block/updated-at 1653483073086}
  {:block/name
   "distributed multi sensor data fusion for autonomous 3d mapping",
   :block/created-at 1652475158405,
@@ -170,8 +174,8 @@
   :block/created-at 1651391122964,
   :block/updated-at 1652876018249}
  {:block/name "network",
-  :block/created-at 1653223266427,
-  :block/updated-at 1653223266427}
+  :block/created-at 1653483073086,
+  :block/updated-at 1653483073086}
  {:block/name "now",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
@@ -207,8 +211,8 @@
   :block/created-at 1652475158405,
   :block/updated-at 1652475158405}
  {:block/name "pytorch",
-  :block/created-at 1653223266427,
-  :block/updated-at 1653223266427}
+  :block/created-at 1653483073087,
+  :block/updated-at 1653483073087}
  {:block/name "r-cnn",
   :block/created-at 1648641189460,
   :block/updated-at 1648644782711}
@@ -220,15 +224,23 @@
   :block/created-at 1645762993964,
   :block/updated-at 1645777055032}
  {:block/name "readme",
-  :block/created-at 1653223266427,
-  :block/updated-at 1653223266427}
+  :block/created-at 1653483073086,
+  :block/updated-at 1653483073086}
  {:block/name
   "real-time temporal and rotational calibration of heterogeneous sensors",
   :block/created-at 1652475158409,
   :block/updated-at 1652475158409}
+ {:block/name
+  "risfnet-robust small object detection on the water surface through fusion of camera and millimeter wave radar",
+  :block/created-at 1653480965440,
+  :block/updated-at 1653480965440}
  {:block/name "rpn",
-  :block/created-at 1653223266427,
-  :block/updated-at 1653223266427}
+  :block/created-at 1653483073086,
+  :block/updated-at 1653483073086}
+ {:block/name
+  "rrpn_ radar region proposal network for object detection in autonomous vehicles",
+  :block/created-at 1653448700975,
+  :block/updated-at 1653456441949}
  {:block/name "ssd",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
@@ -242,6 +254,9 @@
  {:block/name "test",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
+ {:block/name "tip1",
+  :block/created-at 1653483073086,
+  :block/updated-at 1653483073086}
  {:block/name "todo",
   :block/created-at 1652475158411,
   :block/updated-at 1652475158411}
@@ -286,8 +301,8 @@
   :block/created-at 1646571301709,
   :block/updated-at 1646573854426}
  {:block/name "基础操作",
-  :block/created-at 1653223266428,
-  :block/updated-at 1653223266428}
+  :block/created-at 1653483073088,
+  :block/updated-at 1653483073088}
  {:block/name "外参标定",
   :block/created-at 1652475158411,
   :block/updated-at 1652475158411}
@@ -318,6 +333,9 @@
  {:block/name "语义分割算法",
   :block/created-at 1648791789212,
   :block/updated-at 1648792445886}
+ {:block/name "雷视融合论文",
+  :block/created-at 1653448415951,
+  :block/updated-at 1653448423950}
  {:block/name "非线性优化",
   :block/created-at 1652475158410, 
   :block/updated-at 1652475158410}]
