@@ -9,7 +9,7 @@ title:: RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-Based 
 - 数据特征处理
 	- 雷达
 		- 3D雷达点投影到image里，生成点图
-		- 根据点图生成3通过伪图像（深度，侧向速度，纵向速度）
+		- 根据点图生成3通道伪图像（深度，侧向速度，纵向速度）
 		-
 	- 图像
 		- 基于yolov3
@@ -17,5 +17,6 @@ title:: RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-Based 
 	- 基于特征图，直接在深度层进行concatenate
 -
 - 实验部分
-	-
+	- 修改网络结构验证最好的实验效果
+		-
 	-
