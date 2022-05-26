@@ -18,5 +18,6 @@ title:: RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-Based 
 -
 - 实验部分
 	- 修改网络结构验证最好的实验效果
-		-
+		- 修改输入部分
+			- 雷达伪图像采用5通道（深度，侧向速度，横向速度，）
 	-
