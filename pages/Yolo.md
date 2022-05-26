@@ -5,4 +5,5 @@
 - feature extraction --- Darknet-53.
 	- ![image.png](../assets/image_1653570802570_0.png)
 	- https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
-	- input（B, 3, 416, 416)
+	- input（B, 3, 416, 416) =====> output（B, 255, 13, 13)
+-
