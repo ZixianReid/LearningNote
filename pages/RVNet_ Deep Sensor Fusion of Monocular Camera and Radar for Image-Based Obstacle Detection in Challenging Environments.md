@@ -20,5 +20,6 @@ title:: RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-Based 
 	- 修改网络结构验证最好的实验效果
 		- 修改输入部分
 			- 雷达点图生成密集点图采用5通道（深度，侧向速度，横向速度，图像横坐标，图像纵坐标）
-		- 修改
+		- 修改输出部分
+			- 改为仅仅大目标检测用雷视融合或者仅仅小目标检测用雷视融合
 	-
