@@ -25,3 +25,4 @@ title:: RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-Based 
 	- 对比实验
 		- 仅视觉的yolov3和上文提及的网络变种进行比较
 			- ![image.png](../assets/image_1653548655557_0.png)
+			- ![image.png](../assets/image_1653548723663_0.png)
