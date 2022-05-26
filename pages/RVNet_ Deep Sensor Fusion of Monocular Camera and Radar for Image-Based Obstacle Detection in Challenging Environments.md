@@ -14,5 +14,7 @@ title:: RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-Based 
 	- 图像
 		- 基于yolov3
 - 融合过程
+	- 基于特征图，直接在深度层进行concatenate
+-
 	-
 	-
