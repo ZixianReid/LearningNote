@@ -2,4 +2,6 @@
 -
 - pip3 install openmim
 -
+- mim install mmdet -f  https://gitee.com/open-mmlab/mmdetection
+-
 -
