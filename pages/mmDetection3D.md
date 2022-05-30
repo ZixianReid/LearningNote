@@ -4,4 +4,4 @@
 -
 - mim install mmdet -f  https://gitee.com/open-mmlab/mmdetection
 -
--
+- mim install mmsegmentation -f  https://gitee.com/open-mmlab/mmsegmentation
