@@ -1,0 +1,5 @@
+- Python 3.8, CUDA 11.3, cuDNN 8, NVCC, Pytorch 1.11.0, torchvision 0.12.0, torchaudio 0.11.0
+-
+- pip3 install openmim
+-
+-
