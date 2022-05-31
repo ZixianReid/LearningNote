@@ -5,4 +5,5 @@
 		- kitti为png， 这个为jpg
 	- Tr_imu_to_velo: 信息缺失
 	- 缺失calib 100文件
--
+	- 点云文件有7个feature
+	-
