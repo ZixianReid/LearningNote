@@ -19,7 +19,8 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 			- ![image.png](../assets/image_1654072373934_0.png)
 			- 自我理解：根据先验知识（自定义的室内雾环境和变化的自然光）为每个场景设置一个熵
 			- ![image.png](../assets/image_1654072699556_0.png)
-			- 如能见度低的时候lidar和
+			- 如雾气比较浓的时候lidar和camera的滴就会很低
+			- 如在夜晚能见度
 			-
 		- 特征提取：VGG
 		- head：SSD
