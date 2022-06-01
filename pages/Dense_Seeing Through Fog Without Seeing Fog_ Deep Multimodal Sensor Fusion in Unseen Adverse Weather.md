@@ -29,4 +29,4 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 	- 对比实验
 		- ![image.png](../assets/image_1654073035506_0.png){:height 126, :width 716}
 		-
--
+- 核心创新点：根据每个场景的光强和雾气强度不同为传感器设置
