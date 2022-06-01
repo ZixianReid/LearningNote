@@ -9,4 +9,5 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 	- 0.1Hz per frame
 - 融合架构
 	- 数据输入形式：
-		- 相机
+		- lidar：深度，高度，强度
+		- radar：形成与pillar
