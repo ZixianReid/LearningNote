@@ -17,7 +17,10 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 			- 为每一个模态计算熵通道
 			- 熵的计算基于受控雾室内的动态场景和自然光照设置变化的静态场景。
 			- ![image.png](../assets/image_1654072373934_0.png)
-			- 自我理解：根据先验知识（自定义的室内雾环境和变化的自然光）为每个场景设置一个
+			- 自我理解：根据先验知识（自定义的室内雾环境和变化的自然光）为每个场景设置一个熵
+			- ![image.png](../assets/image_1654072699556_0.png)
+			-
+			-
 		- 特征提取：VGG
 		- head：SSD
 -
