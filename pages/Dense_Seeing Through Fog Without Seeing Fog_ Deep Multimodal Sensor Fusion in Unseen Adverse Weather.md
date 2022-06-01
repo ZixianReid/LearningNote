@@ -14,5 +14,8 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 			- ![image.png](../assets/image_1654071667876_0.png)
 	- 特征处理
 		- 熵导向融合（创新）
+			- 为每一个模态计算熵通道
 			- 熵的计算基于图 3（左）所示的受控雾室内的动态场景和自然光照设置变化的静态场景（右）。
+			- ![image.png](../assets/image_1654072373934_0.png)
+			-
 -
