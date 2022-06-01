@@ -27,5 +27,6 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 	- 消融实验：是否使用entropy进行对比
 		- ![image.png](../assets/image_1654073023980_0.png)
 	- 对比实验
+		- ![image.png](../assets/image_1654073035506_0.png){:height 126, :width 716}
 		-
-		-
+-
