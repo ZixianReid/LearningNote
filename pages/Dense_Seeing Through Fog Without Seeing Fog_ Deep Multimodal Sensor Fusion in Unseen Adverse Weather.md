@@ -9,8 +9,8 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 	- 0.1Hz per frame
 - 融合架构
 	- 数据输入形式：
-		- lidar：深度，高度，强度
-		- radar：形成与图片水平方向平行的pillar
+		- lidar：深度，高度，强度作为三通道生成伪图像
+		- radar：形成与图片水平方向平行的pillar，进而生成伪图像
 			- ![image.png](../assets/image_1654071667876_0.png)
 	- 特征处理
 		- 熵导向融合（创新）
@@ -30,4 +30,3 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 		- ![image.png](../assets/image_1654073035506_0.png){:height 126, :width 716}
 		-
 - 核心创新点：根据每个场景的光强和雾气强度不同为传感器设置熵作为额外通道输入加入网络进行训练
--
