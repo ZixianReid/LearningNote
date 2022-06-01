@@ -23,4 +23,9 @@ title:: Dense:Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusi
 			- 如在夜晚能见度较低时，radar和lidar的滴就会很高。
 		- 特征提取：VGG
 		- head：SSD
--
+- 实验比较
+	- 消融实验：是否使用entropy进行对比
+		- ![image.png](../assets/image_1654073023980_0.png)
+	- 对比实验
+		-
+		-
