@@ -1,0 +1,33 @@
+title:: calibration_note
+
+- papers
+	- spatial calibration
+		- [[FDD]]
+		- target-based
+			- 整理了目前主流的三种方法：[[A comparative study on Camera-Rader Calibration Method]]
+			- [[DLT]]
+			- [[integrating millimeter wave radar with a monocular vision]]
+			- [[A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar]]
+			- [[Extrinsic 6DoF calibration of a radar–LiDAR–camera system enhanced Extrinsic 6DoF calibration of a radar–LiDAR–camera system enhanced]]
+			- [[Radar and vision sensors calibration for outdoor 3D reconstruction]]
+		- target-less
+			- [[A Continuous-Time Approach for 3D Radar-to-Camera Extrinsic Calibration]]
+			- [[Targetless Rotational Auto-Calibration of Radar and Camera]]
+			- [[Online multi-sensor calibration based on moving]]
+			-
+			-
+-
+	- temporal calibration
+		- software
+			- [[Precise Timestamping and Temporal Synchronization in Multi-Sensor Fusion]]
+			- [[Distributed Multi Sensor Data Fusion for Autonomous 3D Mapping]]
+			- [[Real-Time Temporal and Rotational Calibration of Heterogeneous Sensors]]
+		- hardware
+			- [[VersaVIS—An Open Versatile Multi-Camera Visual-Inertial Sensor Suite]]
+- [[方案]]
+- 融合论文中设计的标定
+	- Radar and Camera Early Fusion for Vehicle Detection in Advanced Driver Assistance Systems --DLT
+	- RRPN: RADAR REGION PROPOSAL NETWORK FOR OBJECT DETECTION IN AUTONOMOUS VEHICLES -- DLT
+	- Boreas: A Multi-Season Autonomous Driving Dataset -- EC
+	- Are We Ready for Unmanned Surface Vehicles in Inland Waterways? The USVInland Multisensor Dataset and Benchmark --EC
+	-
