@@ -7,3 +7,5 @@
 - mim install mmsegmentation -f  https://gitee.com/open-mmlab/mmsegmentation
 -
 - git clone https://gitee.com/open-mmlab/mmdetection3d.git
+-
+-
