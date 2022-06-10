@@ -30,4 +30,6 @@
 		- w, h
 			- ![image.png](../assets/image_1654832805457_0.png)
 			- w, h 为 真值除以锚点值得到的数值
+		- confs, cls
+			- ![image.png](../assets/image_1654832922216_0.png)
 -
