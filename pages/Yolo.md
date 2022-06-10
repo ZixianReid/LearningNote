@@ -15,4 +15,7 @@
 		- w,h 为相当于当前锚点的便宜
 	- pred
 		- ![image.png](../assets/image_1654832064342_0.png)
-		-
+		- 输入全部归一化
+	- true
+		- x, y
+			-
