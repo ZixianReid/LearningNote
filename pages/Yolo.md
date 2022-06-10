@@ -17,5 +17,8 @@
 		- ![image.png](../assets/image_1654832064342_0.png)
 		- 输入全部归一化
 	- true
-		- x, y
+		- anchors
+			- 确定与当前target最相近的IOU
+			- ![image.png](../assets/image_1654832180056_0.png)
 			-
+-
