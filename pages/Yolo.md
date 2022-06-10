@@ -14,8 +14,10 @@
 		- x, y为在当前网格的偏差
 		- w,h 为相当于当前锚点的便宜
 	- pred
-		- ![image.png](../assets/image_1654832064342_0.png)
-		- 输入全部归一化
+		- ![image.png](../assets/image_1654832829652_0.png)
+		- 归一化
+		- w, h
+			- ![image.png](../assets/image_1654832850846_0.png)
 	- true
 		- anchors
 			- 确定与当前target最相近的IOU
@@ -25,6 +27,6 @@
 			- ![image.png](../assets/image_1654832227845_0.png)
 			- 真值除以缩小值 减去int值为x, y相当于当前网格的偏移值
 		- w, h
-			-
+			- ![image.png](../assets/image_1654832805457_0.png)
 			- w, h 为 真值除以锚点值得到的数值
 -
