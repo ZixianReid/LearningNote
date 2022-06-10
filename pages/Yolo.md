@@ -25,6 +25,6 @@
 			- ![image.png](../assets/image_1654832227845_0.png)
 			- 真值除以缩小值 减去int值为x, y相当于当前网格的偏移值
 		- w, h
-			- ![image.png](../assets/image_1654832294943_0.png)
+			-
 			- w, h 为 真值除以锚点值得到的数值
 -
