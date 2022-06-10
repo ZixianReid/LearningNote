@@ -20,5 +20,8 @@
 		- anchors
 			- 确定与当前target最相近的IOU
 			- ![image.png](../assets/image_1654832180056_0.png)
-			-
+			- 只使用这个锚点下的值
+		- x,y
+			- ![image.png](../assets/image_1654832227845_0.png)
+			- 真值除以缩小值 减去int值
 -
