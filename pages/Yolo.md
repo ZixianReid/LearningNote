@@ -8,5 +8,8 @@
 	- input（B, 3, 416, 416) =====> output（B, 255, 13, 13)
 - yolo head
 	- input （B, 255, 13, 13)， （B, 255, 26，26)， （B, 255, 52, 52）
-	- output:
--
+	- output:  (batch_size, grid_size, grid_size, num_anchors, bbox_attrs)
+- loss设计
+	- 构造
+		- x, y为在当前网格的偏差
+		-
