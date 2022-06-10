@@ -23,5 +23,8 @@
 			- 只使用这个锚点下的值
 		- x,y
 			- ![image.png](../assets/image_1654832227845_0.png)
-			- 真值除以缩小值 减去int值
+			- 真值除以缩小值 减去int值为x, y相当于当前网格的偏移值
+		- w, h
+			- ![image.png](../assets/image_1654832294943_0.png)
+			- w, h为真值
 -
