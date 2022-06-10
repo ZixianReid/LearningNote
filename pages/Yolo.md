@@ -7,5 +7,5 @@
 	- https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
 	- input（B, 3, 416, 416) =====> output（B, 255, 13, 13)
 - yolo head
-	- input （B, 255, 13, 13)
+	- input （B, 255, 13, 13)， （B, 255, 13, 13)
 -
