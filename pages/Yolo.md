@@ -18,6 +18,7 @@
 		- 归一化
 		- w, h
 			- ![image.png](../assets/image_1654832850846_0.png)
+			- 直接回归至经stride之后的w,h数值
 	- true
 		- anchors
 			- 确定与当前target最相近的IOU
