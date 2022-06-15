@@ -8,5 +8,6 @@ title:: SAF-FCOS: Spatial Attention Fusion for Obstacle Detection Using MmWave R
 	- radar
 		- 生成伪图像
 			- ![image.png](../assets/image_1654584017786_0.png)
-			- 根据上面的公式生成雷达图的中心点，生成
+			- 根据上面的公式生成雷达图的中心点，生成以r为半径的圆为radar render
+				-
 		-
