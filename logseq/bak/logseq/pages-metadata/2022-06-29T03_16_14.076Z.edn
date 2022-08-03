@@ -1,4 +1,70 @@
-[{:block/name "2d感知算法",
+[{:block/name
+  "../assets/1-s2.0-s0020025514003715-main_1646570502979_0.pdf",
+  :block/created-at 1652475158410,
+  :block/updated-at 1652475158410}
+ {:block/name
+  "../assets/1-s2.0-s0921889018301994-main_1646561877735_0.pdf",
+  :block/created-at 1652475158405,
+  :block/updated-at 1652475158405}
+ {:block/name
+  "../assets/a_comparative_study_on_camera-radar_calibration_methods_(1)(1)_1645607450319_0.pdf",
+  :block/created-at 1652475158410,
+  :block/updated-at 1652475158410}
+ {:block/name
+  "../assets/a_continuous-time_approach_for_3d_radar-to-camera_extrinsic_calibration_1647692482563_0.pdf",
+  :block/created-at 1652475158412,
+  :block/updated-at 1652475158412}
+ {:block/name
+  "../assets/a_joint_extrinsic_calibration_tool_for_radar_camera_and_lidar_1646550095703_0.pdf",
+  :block/created-at 1652475158410,
+  :block/updated-at 1652475158410}
+ {:block/name
+  "../assets/a_method_of_spatial_calibration_for_camera_and_radar_1646964138708_0.pdf",
+  :block/created-at 1652475158409,
+  :block/updated-at 1652475158409}
+ {:block/name
+  "../assets/an_extrinsic_calibration_tool_for_radar_camera_and_lidar_1646570326240_0.pdf",
+  :block/created-at 1652475158405,
+  :block/updated-at 1652475158405}
+ {:block/name
+  "../assets/cheng-robust_small_object_detection_on_the_water_surface_thr_1653275840195_0.pdf",
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
+ {:block/name
+  "../assets/distributed_multi_sensor_data_fusion_for_autonomous_3d_mapping_1648881866896_0.pdf",
+  :block/created-at 1652475158412,
+  :block/updated-at 1652475158412}
+ {:block/name
+  "../assets/obstacle_detection_using_millimeter-wave_radar_and_its_visualization_on_image_sequence_1646549020450_0.pdf",
+  :block/created-at 1652475158410,
+  :block/updated-at 1652475158410}
+ {:block/name
+  "../assets/online_multi_sensor_calibration_based_on_moving_object_tracking_1647695427406_0.pdf",
+  :block/created-at 1652475158408,
+  :block/updated-at 1652475158408}
+ {:block/name
+  "../assets/precise_timestamping_and_temporal_synchronization_in_multi-sensor_fusion_1648881539182_0.pdf",
+  :block/created-at 1652475158409,
+  :block/updated-at 1652475158409}
+ {:block/name
+  "../assets/radar_and_vision_sensors_calibration_for_outdoor_3d_reconstruction_1646570820869_0.pdf",
+  :block/created-at 1652475158412,
+  :block/updated-at 1652475158412}
+ {:block/name
+  "../assets/real-time_temporal_and_rotational_calibration_of_heterogeneous_sensors_using_motion_correlation_analysis_1648883088556_0.pdf",
+  :block/created-at 1652475158405,
+  :block/updated-at 1652475158405}
+ {:block/name "../assets/sensors-11-08992-v2_1646568216106_0.pdf",
+  :block/created-at 1652475158408,
+  :block/updated-at 1652475158408}
+ {:block/name "../assets/sensors-20-01439_1648882547827_0.pdf",
+  :block/created-at 1652475158409,
+  :block/updated-at 1652475158409}
+ {:block/name
+  "../assets/targetless_rotational_auto-calibration_of_radar_and_camera_for_intelligent_transportation_systems_1647693820046_0.pdf",
+  :block/created-at 1652475158411,
+  :block/updated-at 1652475158411}
+ {:block/name "2d感知算法",
   :block/created-at 1648640849682,
   :block/updated-at 1648791500853}
  {:block/name "3d感知算法",
@@ -32,7 +98,7 @@
   :block/updated-at 1652475158411}
  {:block/name "calibration_note",
   :block/created-at 1645454586603,
-  :block/updated-at 1659530816661}
+  :block/updated-at 1653481178374}
  {:block/name "camera内参标定",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
@@ -52,9 +118,9 @@
   :block/created-at 1655307512060,
   :block/updated-at 1655307512060}
  {:block/name
-  "dense:seeing through fog without seeing fog: deep multimodal sensor fusion in unseen adverse weather",
-  :block/created-at 1656472416407,
-  :block/updated-at 1656472416407}
+  "dense_seeing through fog without seeing fog_ deep multimodal sensor fusion in unseen adverse weather",
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name
   "distributed multi sensor data fusion for autonomous 3d mapping",
   :block/created-at 1652475158405,
@@ -112,12 +178,12 @@
   :block/created-at 1651391122964,
   :block/updated-at 1652876018249}
  {:block/name "mmdetection3d",
-  :block/created-at 1656472416598,
-  :block/updated-at 1656472416598}
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name
   "multi-class road user detection with 3+1d radar in the view-of-delft dataset",
-  :block/created-at 1656472416534,
-  :block/updated-at 1656472416534}
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name "network",
   :block/created-at 1655307512060,
   :block/updated-at 1655307512060}
@@ -179,18 +245,21 @@
   "risfnet-robust small object detection on the water surface through fusion of camera and millimeter wave radar",
   :block/created-at 1653480965440,
   :block/updated-at 1653480965440}
+ {:block/name "rpn",
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name
-  "rrpn: radar region proposal network for object detection in autonomous vehicles",
-  :block/created-at 1656039579974,
-  :block/updated-at 1656039579974}
+  "rrpn_ radar region proposal network for object detection in autonomous vehicles",
+  :block/created-at 1653448700975,
+  :block/updated-at 1653456441949}
  {:block/name
-  "rvnet: deep sensor fusion of monocular camera and radar for image-based obstacle detection in challenging environments",
-  :block/created-at 1656039580008,
-  :block/updated-at 1656039580008}
+  "rvnet_ deep sensor fusion of monocular camera and radar for image-based obstacle detection in challenging environments",
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name
-  "saf-fcos: spatial attention fusion for obstacle detection using mmwave radar and vision sensor",
-  :block/created-at 1656472416564,
-  :block/updated-at 1656472416564}
+  "saf-fcos_ spatial attention fusion for obstacle detection using mmwave radar and vision sensor",
+  :block/created-at 1655286072899,
+  :block/updated-at 1655286629804}
  {:block/name "ssd",
   :block/created-at 1652475158412,
   :block/updated-at 1652475158412}
@@ -245,8 +314,8 @@
   :block/created-at 1652475158409,
   :block/updated-at 1652475158409}
  {:block/name "博士学校申请",
-  :block/created-at 1656472416627,
-  :block/updated-at 1656472416627}
+  :block/created-at 1655262746651,
+  :block/updated-at 1655278428847}
  {:block/name "双目3d感知",
   :block/created-at 1649759025333,
   :block/updated-at 1649762546012}
@@ -272,14 +341,14 @@
   :block/created-at 1645776770514,
   :block/updated-at 1648825658617}
  {:block/name "安装教程",
-  :block/created-at 1656472416672,
-  :block/updated-at 1656472416672}
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name "成像同步机制",
   :block/created-at 1646192113977,
   :block/updated-at 1646192732834}
  {:block/name "数据库论文",
-  :block/created-at 1656472416680,
-  :block/updated-at 1656472416680}
+  :block/created-at 1655307512060,
+  :block/updated-at 1655307512060}
  {:block/name "数据集使用说明",
   :block/created-at 1652475158410,
   :block/updated-at 1652475158410}
@@ -289,9 +358,6 @@
  {:block/name "方案",
   :block/created-at 1649040593249,
   :block/updated-at 1651577405917}
- {:block/name "注意力机制",
-  :block/created-at 1657008328185,
-  :block/updated-at 1657008328185}
  {:block/name "物体检测算法",
   :block/created-at 1648641096728,
   :block/updated-at 1648646557759}
@@ -305,11 +371,8 @@
   :block/created-at 1648791789212,
   :block/updated-at 1648792445886}
  {:block/name "账单",
-  :block/created-at 1656472416705,
-  :block/updated-at 1656472416705}
- {:block/name "问题",
-  :block/created-at 1659530816659,
-  :block/updated-at 1659532439813}
+  :block/created-at 1654517801017,
+  :block/updated-at 1654517984032}
  {:block/name "雷视融合论文",
   :block/created-at 1653448415951,
   :block/updated-at 1653448423950}
